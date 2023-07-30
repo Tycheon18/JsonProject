@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Kim",
+    "Level": 20,
+    "Attack": 15,
+    "Health": 100
+  },
+  {
+    "Name": "Lee",
+    "Level": 35,
+    "Attack": 50,
+    "Health": 80
+  }
+]
